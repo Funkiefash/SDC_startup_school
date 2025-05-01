@@ -220,9 +220,7 @@ nav {
 .feature-item {
     margin-bottom: 5rem;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 3rem;
+   
 }
 
 .feature-icon {
@@ -235,10 +233,7 @@ nav {
 .feature-icon img {
     width: 80px;
     height: 80px;
-    object-fit: contain;
-    display: flex;
-    flex-direction: column;
-   
+    object-fit: contain;   
 }
 
 .feature-item h2 {
