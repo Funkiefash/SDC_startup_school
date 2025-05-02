@@ -377,7 +377,7 @@ nav {
 }
 
 .program-card {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.08);
     border-radius: 8px;
     padding: 2rem;
     text-align: center;
@@ -488,6 +488,7 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 2rem;
     align-items: center;
+    background-colour: white;
 }
 
 .partner-logo {
