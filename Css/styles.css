@@ -489,6 +489,9 @@ nav {
 .partners{
  background-colour: white;   
 }
+.partners.section-header{
+  background-colour: white;     
+}
 .partners-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
