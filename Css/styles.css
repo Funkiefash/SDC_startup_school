@@ -486,8 +486,10 @@ nav {
 }
 
 /* Partners section */
-
-.Partners_session{
+.partners{
+    background-colour: white;    
+}
+.partners_session{
   background-colour: white;     
 }
 .partners-grid {
