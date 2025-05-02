@@ -377,7 +377,7 @@ nav {
 }
 
 .program-card {
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: white;
     border-radius: 8px;
     padding: 2rem;
     text-align: center;
