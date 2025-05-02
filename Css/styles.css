@@ -487,7 +487,7 @@ nav {
 
 /* Partners section */
 
-.partners_session{
+.Partners_session{
   background-colour: white;     
 }
 .partners-grid {
@@ -495,8 +495,7 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 2rem;
     align-items: center;
-    
-    
+    background-colour: white;    
 }
 
 .partner-logo {
